@@ -27,3 +27,40 @@ A good wireframe includes several essential components that define the user expe
 - **Functionality:**  
   Demonstrates how elements interact with users.  
   *Example:* Dropdowns, search bars, or modals to handle user input and feedback.
+  
+---
+
+## 🎨 Types of Wireframes
+
+### 1. Low-Fidelity Wireframes
+- Focus on basic structure and functionality.  
+- Usually use grayscale colors, boxes, and placeholder text.  
+- Created quickly to explore layout ideas.  
+- **Purpose:** Early design brainstorming and team alignment.
+
+### 2. High-Fidelity Wireframes
+- Include detailed visuals: colors, typography, and real content.  
+- Closely resemble the final product.  
+- **Purpose:** Late-stage refinement, prototyping, or usability testing.
+
+### Type of Wireframe Used here: https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&p=f&t=O5urSEknj2RIKhqY-0
+
+The figma represents a **High-Fidelity Wireframe**.
+
+**Explanation:**
+This wireframe goes beyond basic structure — it includes detailed UI components, color schemes, typography, real images, and realistic content. Each screen (such as *Splash, Login, Home,* and *Reservation*) visually communicates how the final mobile app will look and behave.
+
+**Key Features That Indicate High Fidelity:**
+- Real product images and icons.  
+- Defined color palette and branding elements.  
+- Actual text and button labels (e.g., *“Sign In”*, *“Book Now”*).  
+- Detailed layouts with spacing, hierarchy, and interactive components.  
+- Multiple connected screens showing the full user flow.
+
+**Purpose:**
+High-fidelity wireframes like this are typically used during **late design stages** — for user testing, stakeholder approval, and handoff to developers. They give a realistic view of the final product before coding begins.
+
+**Wireframe Preview:**
+![High Fidelity Wireframe](./figmapreview.png)
+
+---
