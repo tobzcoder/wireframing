@@ -64,3 +64,24 @@ High-fidelity wireframes like this are typically used during **late design stage
 ![High Fidelity Wireframe](./figmapreview.png)
 
 ---
+
+## Wireframing Tools
+
+Several tools make wireframing efficient and collaborative:
+
+### **Figma**
+- Cloud-based and ideal for real-time collaboration.  
+- Supports both low- and high-fidelity wireframes.  
+- Easy sharing and prototyping.  
+- **Why Choose Figma:**  
+  - Real-time co-editing.  
+  - Developer handoff tools.  
+  - Vector editing and responsive design features.
+
+### **Other Popular Tools**
+- **Balsamiq:** Best for quick, low-fidelity sketches.  
+- **Adobe XD:** Ideal for high-fidelity, interactive prototypes.  
+- **Sketch:** Favored by macOS users for UI/UX work.  
+- **Miro:** Great for brainstorming wireframes with team collaboration.
+
+---
